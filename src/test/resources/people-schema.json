@@ -1,0 +1,7 @@
+{
+  "detail": "Not found"
+}
+JSON Schema
+All resources support JSON Schema. Making a request to /api/<resource>/schema will give you the details of that resource. This will allow you to programmatically inspect the attributes of that resource and their types.
+/people/schema/ -- view the JSON schema for this resource
+but I got 404
